@@ -1,4 +1,5 @@
 # voting-app
+# @author:- Srinivas Kanuparthi
 
 # basic and simple voting-application that supports to vote for different candidates based on users choice
 
